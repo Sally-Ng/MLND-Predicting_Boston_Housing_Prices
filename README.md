@@ -1,4 +1,4 @@
-# Predicting_Boston_Housing_Prices
+# Predicting Boston Housing Prices
 Language: Python (scikit-learn, pandas, NumPy) </br> 
 Skills: Machine Learning, Data Exploration </br>
 Built Supervised Machine Learning models to predicting the probability that somebody will experience 
