@@ -1,15 +1,14 @@
 # Predicting Boston Housing Prices
 Language: Python (scikit-learn, pandas, NumPy) </br> 
-Skills: Machine Learning, Data Exploration </br>
-Built Supervised Machine Learning model to estimate the best selling price of houses in Boston, Massachusetts. Distinguished the Decision Tree model preforms the best with a maximum depth of 4.   
+Skills: Machine Learning, Data Exploration, Data Visualization </br>
+Compared the accuracy of the SVM, Decision Tree and Naïve Bayes models on distinguishing potential donors. Optimized the model with GridSearchCV and preformed features selection to reduce training time.
 
 <p align="left">
   <img src="clients.JPG" width="400"/>
 </p>
-And the predicted selling price for the houses are: 
-
-- Client 1's house: $306,337.50 
-
-- Client 2's house: $224,342.55 
-
-- Client 3's house: $930,490.91
+<p align="left">
+  <img src="clients.JPG" width="400"/>
+</p>
+<p align="left">
+  <img src="clients.JPG" width="400"/>
+</p>
